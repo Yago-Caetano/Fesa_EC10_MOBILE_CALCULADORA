@@ -24,7 +24,7 @@ Trata-se de uma simples calculadora, nela é possível:
 
 ## Instalação
 
-1. Clone este repositório: `git clone `
+1. Clone este repositório: `git clone https://github.com/Yago-Caetano/Fesa_EC10_MOBILE_CALCULADORA.git`
 2. Instale as dependências: `npm install` ou `yarn install`
 
 ## Como Usar
